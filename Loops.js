@@ -54,7 +54,7 @@ while(num<10){
 }
 
 //5.map = > it creates new array by applying function to each element for the original array
-//syntax => let/co nst newArray = array.map(function(element,index,arr){
+//syntax => let/const newArray = array.map(function(element,index,arr){
             //return value of array
              //});
 
