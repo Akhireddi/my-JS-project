@@ -1,7 +1,7 @@
 //ConditionalExpression : evaluates a condition and returns a value best ex:ternary operator
 //ternary op : condition ? valueofTrue : valueofFalse
 //cannot replace complex blocks easily
-//readable for si ple conditions
+//readable for simple conditions
 //1.
 let height = 5.5;
 let conclusion = (height > 5.3) ? "tall" : "Short" ;
